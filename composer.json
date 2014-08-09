@@ -1,7 +1,7 @@
 {
-	"name":"bit3/contao-assetic-inserttag-filter",
-	"description":"InsertTag asset filter for Contao OpenSource CMS",
-	"keywords":["contao", "assets", "inserttag"],
+	"name":"bit3/contao-assetic-insert-tag-filter",
+	"description":"Insert tag asset filter for Contao OpenSource CMS",
+	"keywords":["contao", "assets", "insert tag"],
 	"type":"contao-module",
 	"homepage":"http://bit3.de",
 	"license":"LGPL-3.0+",
@@ -15,10 +15,10 @@
 	],
 	"support":{
 		"email":"info@bit3.de",
-		"issues":"https://github.com/bit3/contao-assetic-inserttag-filter/issues",
-		"wiki":"https://github.com/bit3/contao-assetic-inserttag-filter/wiki",
+		"issues":"https://github.com/bit3/contao-assetic-insert-tag-filter/issues",
+		"wiki":"https://github.com/bit3/contao-assetic-insert-tag-filter/wiki",
 		"irc":"irc://irc.freenode.org/contao.theme+",
-		"source":"https://github.com/bit3/contao-assetic-inserttag-filter"
+		"source":"https://github.com/bit3/contao-assetic-insert-tag-filter"
 	},
 	"require":{
 		"php":">=5.3",
