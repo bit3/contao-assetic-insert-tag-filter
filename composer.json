@@ -33,7 +33,7 @@
 	"extra":{
 		"contao": {
 			"sources":{
-				"module": "system/modules/assetic-inserttag-filter"
+				"system/modules/assetic-insert-tag-filter": "system/modules/assetic-insert-tag-filter"
 			}
 		},
 		"branch-alias": {
